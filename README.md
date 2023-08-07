@@ -7,3 +7,5 @@ Práctica de repositorios
 - **_Committed (Confirmado)_** :book:
 - **_modified (Modificado)_** :thread:
 - **_staged (Preparado)_** :magic_wand:
+
+- (Untracked, Anañido, Modificado)
